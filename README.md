@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+hosted_at = https://rownok35.github.io/eshop.github.io/index.html
+The Task was creating a e-commerce site using Java_ Script having the below features:
+    1. There will be a list of products in any part of a web page
+    2. Each product will have a price and there will be a button called Add to Cart
+    3. You can show the cart at the bottom or left of the product list, the cart will be empty at the beginning
+    4. Clicking on the Add to Cart button will add the product to the cart, the product will not be removed from the product list.
+    5. Again there will be a Remove button next to the products in the cart, which will remove the product when clicked.
+    6. Quantity, showing the total value is not mandatory
 
-You can use the [editor on GitHub](https://github.com/rownok35/eshop.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rownok35/eshop.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
